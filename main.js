@@ -32,8 +32,6 @@ function playGame() {
     {
       console.log(JSON.stringify(makeTurn(obj)));
     }
-
-    playGame();
   })
 }
 
